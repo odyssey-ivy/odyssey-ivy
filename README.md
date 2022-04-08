@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @odyssey-ivy
 - 👀 I’m interested in Django sites
 - 🌱 I’m currently learning Web Technologies
-- 💞️ I’m looking to collaborate on project in Python
+- 💞️ I’m looking to collaborate on projects in Python
 - 📫 How to reach me is at odyssey.ivy@gmail.com
 
 <!---
